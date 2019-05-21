@@ -1,2 +1,2 @@
-# epic-cartoon-website
-A website about a cool and epic cartoon 
+# Benji-the-Hedgehog
+A website about a cool and epic hedgehog Benji
